@@ -32,7 +32,7 @@ Käyttöliittymä ei lopullinen, mutta tarpeeksi kuvaava.
 ## Tekninen toteutus
 
 Aikalailla samalla tavalla kuin, kun nuo tehtävätkin tullut tehtyä samalla tavalla eli:
-Frontend: Reach
-Backend: Node
+#### Frontend: Reach
+#### Backend: Node
 
 ## Projektinhallinta ja käyttäjätestaus määritys – Miten projektia hallitaan ja miten varmistetaan, että se toimii käyttäjille?
