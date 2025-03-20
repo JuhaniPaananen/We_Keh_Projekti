@@ -7,11 +7,11 @@ Tarkoituksena olisi tehdä taski systeemi projekteille tai kurssien seurantaan, 
 ## Määrittää käyttäjäpersoonat
 
 ##### Janne, 35, projektipäällikkö: 
-Tarvitsen järjestelmällisen tavan jakaa tehtäviä tiimille ja seurata niiden valmistumista.
+"Tarvitsen järjestelmällisen tavan jakaa tehtäviä tiimille ja seurata niiden valmistumista."
 ##### Sari, 28, freelancer: 
-Haluaisi yksinkertaisen tavan hallita useita projekteja ja deadlineja.
+"Haluaisin yksinkertaisen tavan hallita useita projekteja ja deadlineja."
 ##### Onni, 22, opiskelija: 
-Tarvitsee tehtävälistan kouluprojekteihin ja mahdollisuuden jakaa tehtävät ryhmäläisten kanssa.
+"Tarvitsen tehtävälistan kouluprojekteihin, jotta en unohtaisi yhtäkään tehtävää enää."
 
 ## Käyttötarkoitus ja käyttötilanteet
 
