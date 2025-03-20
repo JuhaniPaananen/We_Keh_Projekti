@@ -31,7 +31,7 @@ Käyttöliittymä ei lopullinen, mutta tarpeeksi kuvaava.
 
 ## Tekninen toteutus
 
-Aikalailla samalla tavalla kuin, kun nuo tehtävätkin tullut tehtyä samalla tavalla eli:
+Aikalailla samalla tavalla kuin, kun nuo tehtävätkin tullut tehtyä samalla tavalla, jossa olisi:
 #### Frontend: Reach
 #### Backend: Node
 
