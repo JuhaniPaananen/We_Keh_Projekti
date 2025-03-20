@@ -6,17 +6,17 @@ Tarkoituksena olisi tehdä taski systeemi projekteille tai kurssien seurantaan, 
 
 ## Käyttäjäpersoonat
 
-##### Janne, 35, projektipäällikkö, Helsinki: 
+#### Janne, 35, projektipäällikkö, Helsinki: 
 ##### Harrastukset: 
 Kalastus.
 ##### Toive
 "Tarvitsen järjestelmällisen tavan jakaa tehtäviä tiimille ja seurata niiden valmistumista."
-##### Sari, 28, freelancer, Tampere: 
+#### Sari, 28, freelancer, Tampere: 
 ##### Harrastukset: 
 Käsityöt.
 ##### Toive
 "Haluaisin yksinkertaisen tavan hallita useita projekteja ja deadlineja."
-##### Onni, 22, opiskelija, Kokkola: 
+#### Onni, 22, opiskelija, Kokkola: 
 ##### Harrastukset: 
 Koulu.
 ##### Toive
