@@ -17,7 +17,8 @@ Tarvitsee järjestelmällisen tavan jakaa tehtäviä tiimille ja seurata niiden 
 Haluaisi yksinkertaisen tavan hallita useita projekteja ja deadlineja.
 ##### Onni, 22, opiskelija: 
 Tarvitsee tehtävälistan kouluprojekteihin ja mahdollisuuden jakaa tehtävät ryhmäläisten kanssa.
-### Luoda käyttötapaukset ja käyttötilanteet – Mitä käyttäjät tekevät sovelluksessa ja missä tilanteissa?
-### Tehdä käyttöliittymän prototyypit – Luonnokset siitä, miltä sovellus näyttää ja miten se toimii.
-### Suunnitella tietoarkkitehtuuri ja tekninen toteutus – Miten data liikkuu ja mitä teknologioita käytetään?
-### Projektinhallinta ja käyttäjätestaus määritys – Miten projektia hallitaan ja miten varmistetaan, että se toimii käyttäjille?
+
+## Luoda käyttötapaukset ja käyttötilanteet – Mitä käyttäjät tekevät sovelluksessa ja missä tilanteissa?
+## Tehdä käyttöliittymän prototyypit – Luonnokset siitä, miltä sovellus näyttää ja miten se toimii.
+## Suunnitella tietoarkkitehtuuri ja tekninen toteutus – Miten data liikkuu ja mitä teknologioita käytetään?
+## Projektinhallinta ja käyttäjätestaus määritys – Miten projektia hallitaan ja miten varmistetaan, että se toimii käyttäjille?
