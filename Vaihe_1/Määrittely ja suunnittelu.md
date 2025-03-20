@@ -11,7 +11,7 @@ Vaihe tulisi värillisenä näkyvästi taskin vasemmalle puolelle: "Valmis" vihr
 
 ### Määrittää käyttäjäpersoonat – Kuka käyttää sovellusta ja millaisiin tarpeisiin?
 
-## Janne, 35, projektipäällikkö: Tarvitsee järjestelmällisen tavan jakaa tehtäviä tiimille ja seurata niiden valmistumista.
+#### Janne, 35, projektipäällikkö: Tarvitsee järjestelmällisen tavan jakaa tehtäviä tiimille ja seurata niiden valmistumista.
 Sari, 28, freelancer: Haluaisi yksinkertaisen tavan hallita useita projekteja ja deadlineja.
 Mikko, 22, opiskelija: Tarvitsee tehtävälistan kouluprojekteihin ja mahdollisuuden jakaa tehtävät ryhmäläisten kanssa.
 ### Luoda käyttötapaukset ja käyttötilanteet – Mitä käyttäjät tekevät sovelluksessa ja missä tilanteissa?
