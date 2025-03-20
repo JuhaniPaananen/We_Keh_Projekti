@@ -4,7 +4,7 @@
 
 Tarkoituksena olisi tehdä taski systeemi projekteille tai kurssien seurantaan, jotta niiden seuraaminen olisi helpompaa.
 
-## Määrittää käyttäjäpersoonat
+## Käyttäjäpersoonat
 
 ##### Janne, 35, projektipäällikkö: 
 "Tarvitsen järjestelmällisen tavan jakaa tehtäviä tiimille ja seurata niiden valmistumista."
