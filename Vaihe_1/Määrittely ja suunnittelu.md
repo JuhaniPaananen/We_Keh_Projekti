@@ -1,6 +1,6 @@
 # Määrittely ja suunnittelu
 
-### Idea
+# Idea
 
 Tarkoituksena olisi tehdä taski systeemi projekteille tai kurssien seurantaan, jotta niiden seuraaminen olisi helpompaa.
 Eli Käyttäjä voi luoda taskin, joka koostuu taskin nimestä, aikamääreestä ja sen vaiheesta.
@@ -9,7 +9,7 @@ Eli, jos jotain on aloitettu tällöin, mutta se ei ole vielä valmis: "20.3.202
 Ja jos kun sama taski on saanut valmiiksi niin: "20.3.2025 - 21.3.2025".
 Vaihe tulisi värillisenä näkyvästi taskin vasemmalle puolelle: "Valmis" vihreällä, "Kesken" keltaisella ja "Aloittettu" punaisella.
 
-### Määrittää käyttäjäpersoonat – Kuka käyttää sovellusta ja millaisiin tarpeisiin?
+# Määrittää käyttäjäpersoonat
 
 #### Janne, 35, projektipäällikkö: 
 Tarvitsee järjestelmällisen tavan jakaa tehtäviä tiimille ja seurata niiden valmistumista.
