@@ -19,8 +19,11 @@ Eli Käyttäjä voi luoda taskin, joka koostuu taskin nimestä, aikamääreestä
 Aikamääteeseen tulee, milloin jokin taski on aloitettu ja siihen tullaan lisäämään milloin taski on valmis.
 Eli, jos jotain on aloitettu tällöin, mutta se ei ole vielä valmis: "20.3.2025 - ".
 Ja jos kun sama taski on saanut valmiiksi niin: "20.3.2025 - 21.3.2025".
-Vaihe tulisi värillisenä näkyvästi taskin vasemmalle puolelle: "Valmis" vihreällä, "Kesken" keltaisella ja "Aloittettu" punaisella.
+Vaiheille on kolme eri listaa: "Valmis" vihreällä, "Kesken" keltaisella ja "ei aloitettu" punaisella.
 
 ## Tehdä käyttöliittymän prototyypit – Luonnokset siitä, miltä sovellus näyttää ja miten se toimii.
+
+![image](https://github.com/user-attachments/assets/fd024c7b-4f3e-49d5-a86e-f0f7c9e16baf)
+
 ## Suunnitella tietoarkkitehtuuri ja tekninen toteutus – Miten data liikkuu ja mitä teknologioita käytetään?
 ## Projektinhallinta ja käyttäjätestaus määritys – Miten projektia hallitaan ja miten varmistetaan, että se toimii käyttäjille?
