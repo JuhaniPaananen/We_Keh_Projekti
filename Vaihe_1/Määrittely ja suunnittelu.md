@@ -7,27 +7,13 @@ Tarkoituksena olisi tehdä taski systeemi projekteille tai kurssien seurantaan, 
 ## Käyttäjäpersoonat
 
 #### Janne, 35, projektipäällikkö, Helsinki: 
-![Käyttäjä1](https://github.com/user-attachments/assets/59bf36d6-646e-4cf0-a05d-52532a3f3fc9)
+![Käyttäjä1](https://github.com/user-attachments/assets/73caac04-1b05-4f89-8743-7142345b9a6c)
 
-
-
-
-##### Harrastukset: 
-Kalastus.
-##### Toive
-"Tarvitsen järjestelmällisen tavan jakaa tehtäviä tiimille ja seurata niiden valmistumista."
 #### Sari, 28, freelancer, Tampere: 
-![Käyttäjä2](https://github.com/user-attachments/assets/0fa138cd-a305-4d1e-9c17-eab46d32e291)
+![Käyttäjä2](https://github.com/user-attachments/assets/17465d56-069c-4a23-b717-9b45c77fc9de)
 
-##### Harrastukset: 
-Käsityöt.
-##### Toive
-"Haluaisin yksinkertaisen tavan hallita useita projekteja ja deadlineja."
 #### Onni, 22, opiskelija, Kokkola: 
-##### Harrastukset: 
-Koulu.
-##### Toive
-"Tarvitsen tehtävälistan kouluprojekteihin, jotta en unohtaisi yhtäkään tehtävää enää."
+![Käyttäjä3](https://github.com/user-attachments/assets/c22d4255-8fa8-4fb4-87a6-1c863050bb76)
 
 ## Käyttötarkoitus ja käyttötilanteet
 
