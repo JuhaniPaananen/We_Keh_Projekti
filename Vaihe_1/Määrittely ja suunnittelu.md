@@ -24,10 +24,22 @@ Ja jos kun sama taski on saanut valmiiksi niin: "20.3.2025 - 21.3.2025".
 Vaiheille on kolme eri listaa: "Valmis" vihreällä, "Kesken" keltaisella ja "ei aloitettu" punaisella.
 Nappeja on kaksi jokaisella taskilla: Siirry eli siirtää taskia eteenpäin toiselle listalle ja lopuksi kun tietty taskin on valmis niin poisto nappula on siirtymisen sijaan, joka siis poistaa sen. Tiedot nappulasta pääsee tietoihin.
 
+#### Esimerkki käytöstä
+- Käyttäjä luo taskin liittymästä ja painaa sitten "Lisää" painiketta, kun kaikki tiedot on täytetty.
+- (Jos käyttäjä ei pistä nimeä taskille, niin silloin ei voi taskia lisätä.)
+- (Jos tietoihin ei ole lisätty mitään, niin silloin siihen pistetään automaattisesti "Ei tietoja".)
+- Kun taski lisätty, niin se ilmestyy "Ei aloitettu" listaan aivan ensimmäisenä, josta sitä voi viedä eteenpäin "Kesken" listalle "Siirry" nappulasta.
+- ("Ei aloitettu" listan tarkoitus on luoda käyttäjälle mahdollisuus listata erikseen tulevia tehtäviä, mutta niitä ei tarvitse aloittaa vielä.)
+- "Kesken" listalta voidaan taas siirtää "Valmis" listalle "Siirry" nappulasta.
+- ("Kesken" listan tarkoitus on osoittaa, että tämä tehtävä on nyt käynnissä.)
+- Lopuksi se voidaan viimeiseltä listalta poistaa halutessa Painamalla "Poista" nappulaa.
+- ("Valmis" lista siis kerää kaikki taskit, mitä on tehty, että niitä voi vapaasti tarkasteltavaksi jälkeenpäin.)
+- Jokaisella listalla taskin tietoja voidaan katsoa painamalla "Tietoja" nappulaa.
+
 ## Käyttöliittymän prototyyppi
 
 Käyttöliittymä ei lopullinen, mutta tarpeeksi kuvaava. Kaikki asiat löytyvät kuvasta, mitä lopullisestikin.
-Tärkeimpänä tässä on huomata layout eli järjestys kaikelle. Layout on vielä pieni, että sen voisi venytää aivan kokosivulle tai jättää tilaa muille ominaisuuksille, joita voi lisätä jatkossa. Värikkyys tulee pysymään, mutta yritän sen olevan simppelimpi ja ehkä jopa muokattavissa, jos on aikaa.
+Tärkeimpänä tässä on huomata se, että käyttöliittymä on vielä pieni, että sen voisi venytää aivan kokosivulle tai jättää tilaa muille ominaisuuksille, joita voi lisätä jatkossa. Värikkyys tulee pysymään, mutta yritän sen olevan simppelimpi ja ehkä jopa muokattavissa, jos on aikaa.
 
 ![image](https://github.com/user-attachments/assets/1c3fe091-609b-4a5c-9c60-5e1158dc2c8d)
 
