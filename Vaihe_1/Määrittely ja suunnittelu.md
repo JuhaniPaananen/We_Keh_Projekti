@@ -27,6 +27,7 @@ Nappeja on kaksi jokaisella taskilla: Siirry eli siirtää taskia eteenpäin toi
 ## Käyttöliittymän prototyyppi
 
 Käyttöliittymä ei lopullinen, mutta tarpeeksi kuvaava. Kaikki asiat löytyvät kuvasta, mitä lopullisestikin.
+Tärkeimpänä tässä on huomata layout eli järjestys kaikelle. Layout on vielä pieni, että sen voisi venytää aivan kokosivulle tai jättää tilaa muille ominaisuuksille, joita voi lisätä jatkossa. Värikkyys tulee pysymään, mutta yritän sen olevan simppelimpi ja ehkä jopa muokattavissa, jos on aikaa.
 
 ![image](https://github.com/user-attachments/assets/1c3fe091-609b-4a5c-9c60-5e1158dc2c8d)
 
