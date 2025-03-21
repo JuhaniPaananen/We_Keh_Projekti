@@ -59,6 +59,10 @@ Eli jos tuo ei toimi niin silloin siirryn paikalliskoneelle. Frontend ja backend
 En osaa vielä päivämääristä sanoa, sillä tämä riippuu hommien määrästä, joiden kiintiö voi räjähtää ja en saa tehtyä samalla tahdilla toista vaihetta.
 Tämä on taas, että kuinka vaikeita asioita pitää tehdä vaikuttaa myös tekemiseen. Mutta lopullinen aika on tavoitteellisesti on 19.4, jolloin applikaatio on Azure Ympäristössä tai aikaisemmin paikallisella koneella. Parhaani kuitenkin yritän.
 
+#### Seuranta:
+
+Projektia voi seurata tästä reposta, johon aina pusken, mitä olen tehnyt.
+
 ## Käyttäjätestaus
 
 Käyttäjille luodaan ohjelma, jonka tarkoituksena on, että he luovat taskeja itselleen ja seuraavat heidän omaa edistymistään applikaation kautta.
