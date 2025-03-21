@@ -7,7 +7,9 @@ Tarkoituksena olisi tehdä taski systeemi projekteille tai kurssien seurantaan, 
 ## Käyttäjäpersoonat
 
 #### Janne, 35, projektipäällikkö, Helsinki: 
-![image](https://github.com/user-attachments/assets/751377ab-81ff-4016-bb3c-728cda663b38)
+![Käyttäjä1](https://github.com/user-attachments/assets/59bf36d6-646e-4cf0-a05d-52532a3f3fc9)
+
+
 
 
 ##### Harrastukset: 
@@ -15,6 +17,8 @@ Kalastus.
 ##### Toive
 "Tarvitsen järjestelmällisen tavan jakaa tehtäviä tiimille ja seurata niiden valmistumista."
 #### Sari, 28, freelancer, Tampere: 
+![Käyttäjä2](https://github.com/user-attachments/assets/0fa138cd-a305-4d1e-9c17-eab46d32e291)
+
 ##### Harrastukset: 
 Käsityöt.
 ##### Toive
