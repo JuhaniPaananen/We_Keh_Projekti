@@ -7,6 +7,8 @@ Tarkoituksena olisi tehdä taski systeemi projekteille tai kurssien seurantaan, 
 ## Käyttäjäpersoonat
 
 #### Janne, 35, projektipäällikkö, Helsinki: 
+![image](https://github.com/user-attachments/assets/eba0c25e-ef68-40d4-8ba0-2159ffdd00ce)
+
 ##### Harrastukset: 
 Kalastus.
 ##### Toive
