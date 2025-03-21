@@ -62,16 +62,22 @@ Tämä on taas, että kuinka vaikeita asioita pitää tehdä vaikuttaa myös tek
 ## Käyttäjätestaus
 
 Käyttäjille luodaan ohjelma, jonka tarkoituksena on, että he luovat taskeja itselleen ja seuraavat heidän omaa edistymistään applikaation kautta.
-Jokaisen vaiheen kohdalla tulee käyttäjien tehdä oma tarkistus, että vaiheen kohta on toteutunut. Jos ei niin siitä raportoidaan seuraavasti?
+Jokaisen vaiheen kohdalla tulee käyttäjien tehdä oma tarkistus, että vaiheen kohta on toteutunut. Jos ei niin siitä raportoidaan vastaamalla valmiisiin kysymyksiin.
 
-### Vaihe 1
+### Virheen raportointi
+- Mikä vaihe oli menossa?
+- Mikä meni pieleen?
+- Minkä takia mielestäni kävi näin?
+- Muuta huomautettavaa?
+
+### Testaus vaihe 1
 
 Käyttäjät luovat minimissään 3 taskia, jotka poikkeavat toisistaan ainakin ajallisesti.
 
-### Vaihe 2
+### Testaus vaihe 2
 
 Käyttäjät siirtävät taskeja vaiheissa eteenpäin, kun sen aika on ja katsovat, että muutokset ovat pysyviä.
 
-### Vaihe 3
+### Testaus vaihe 3
 
 Käyttäjät ovat saaneet taskit tehtyä ja näkyvät vaiheessa "Valmis". Lopuksi käyttääjä poistaa taskin kokonaan, jolloin se pysyy poissa.
