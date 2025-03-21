@@ -40,7 +40,7 @@ Käyttöliittymä ei lopullinen, mutta tarpeeksi kuvaava. Kaikki asiat löytyvä
 ## Tekninen toteutus
 
 Aikalailla samalla tavalla kuin, kun nuo tehtävätkin tullut tehtyä samalla tavalla, jossa olisi:
-### Ympäristö: Azure/Paikallinen kone
+#### Ympäristö: Azure/Paikallinen kone
 #### Frontend: Reach
 #### Backend: Node.js
 #### Tietokanta: PostgreSQL
