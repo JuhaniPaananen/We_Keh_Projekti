@@ -4,4 +4,4 @@
 | :---  |     :---:      |     :---:      |     :---:      |
 | 20.3.2025 | 3 | Vaihe 1 | Vaiheen 1 määrittelyä työstämistä (vielä kesken) |
 | 21.3.2025 | 3 | Vaihe 1 | Vaiheen 1 määrittelyä työstämistä (Valmiiksi) |
-| 7.4.2025 | 3 | Backend | Valmis |
+| 1-7.4.2025 | 5 | Backend | Valmis |
