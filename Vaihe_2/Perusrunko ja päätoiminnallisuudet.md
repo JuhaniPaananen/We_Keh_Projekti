@@ -6,6 +6,7 @@ Projekti on Taskien hallinta applikaatiosta, joka on tehty Reach, Node.js ja Sql
 
 #### Raportti:
 Backend koostuu perustoiminnallisuuksista, jotka ovat myös lopullisessa versiossa. 
+Tarkoituksena ei ollut tehdä virallista versiota tästä vaan, että toiminnallisuuksilla voisi lähennä testata, että kaikki toimii.
 Tehtävät ovat listataan yhteen listaan, jossa tehtävän laatikon väri vastaa tehtävän vaihetta.
 Kaikissa tehtävissä on nappulat, joista voidaan tehdä seuraavat:
 - Siirtää vaiheissa eteenpäin.
