@@ -44,6 +44,10 @@ Noin 55 workflow runin jälkeen ja aivan viimeisillä tunneilla ennen palautusta
 
 # Tietokanta: Sqlite3
 
+#### Raportti:
+Pitihän se tietokantakin olla. Sinne voidaan siis tallentaa taskit, jotta ne pysyisivät tallessa, että muuten koko applikaatio olisi aivan turha.
+
+![image](https://github.com/user-attachments/assets/05e32343-d981-4d06-9632-32e177e44973)
 
 
 
