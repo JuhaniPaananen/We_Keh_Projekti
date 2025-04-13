@@ -26,6 +26,9 @@ Myöskin voi hakea nimellä, joka ryhmittää näkyviin ne, joiden nimi vastaa e
 #### Raportti:
 Frontend tehty Reachillä. Vastaa täydellisesti alkuperäistä suunnitelmaa eli kolme listaa, jotka edustavat kolmea eri vaihetta: 'Ei aloitettu', 'Kesken' ja 'Valmis'. Tämä ei niinkään kehittynyt siitä, mitä suunnittelmin. Olisin käyttänyt sitä, mitä minulla on vaiheessa 1, mutta kadotin sen html koodin.
 
+Kuvan mukaisesti voit tehdä taskin, mutta vain antamalla sille nimi ja tiedot. Sen jälkeen voit luoda taskin painamalla nappia.
+Taskit kiertävät siis vaihe listoja. Taskia voidaan laittaa eteenpäin listassa painammalla 'Siirry'
+
 ![image](https://github.com/user-attachments/assets/c4243373-9e87-4ebc-b7c4-3dee33615f1b)
 
 # Ympäristö: Azure Static Web App
@@ -38,5 +41,7 @@ Noin 55 workflow runin jälkeen ja aivan viimeisillä tunneilla ennen palautusta
 
 
 # Tietokanta: Sqlite3
+
+
 
 
