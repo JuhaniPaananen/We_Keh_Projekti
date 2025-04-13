@@ -22,7 +22,7 @@ Myöskin voi hakea nimellä, joka ryhmittää näkyviin ne, joiden nimi vastaa e
 # Frontend: Reach
 
 #### Raportti:
-Frontend tehty Reachillä. Vastaa täydellisesti alkuperäistä suunnitelmaa eli kolme listaa, jotka edustavat kolmea eri vaihetta: 'Ei aloitettu', 'Kesken' ja 'Valmis'.
+Frontend tehty Reachillä. Vastaa täydellisesti alkuperäistä suunnitelmaa eli kolme listaa, jotka edustavat kolmea eri vaihetta: 'Ei aloitettu', 'Kesken' ja 'Valmis'. Tämä ei niinkään kehittynyt siitä, mitä suunnittelmin. Olisin käyttänyt sitä, mitä minulla on vaiheessa 1, mutta kadotin sen html koodin.
 
 ![image](https://github.com/user-attachments/assets/c4243373-9e87-4ebc-b7c4-3dee33615f1b)
 
