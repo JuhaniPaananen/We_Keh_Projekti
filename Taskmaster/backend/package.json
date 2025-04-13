@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@npmcli/fs": "^4.0.0",
+    "are-we-there-yet": "^4.0.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "gauge": "^5.0.2",
+    "glob": "^11.0.1",
+    "inflight": "^1.0.6",
+    "npmlog": "^7.0.1",
+    "rimraf": "^6.0.1",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "vite": "^6.2.6"
+  }
+}

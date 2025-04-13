@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <title>Tehtävälista</title>
+  <script defer src="add.js"></script>
+  <style>
+    body { font-family: sans-serif; padding: 2%; }
+    p.uppercase {text-transform: uppercase;}
+    form, .taskit { margin-top: 1%; }
+    .taski { border: 1px solid #ccc; padding: 1%; margin-bottom: 1%; border-radius: 8px; }
+    .punainen { background-color: #ffd6d6; }
+    .keltainen { background-color: #fff8cc; }
+    .vihrea { background-color: #d6ffd6; }
+    button { margin-right: 1%; }
+  </style>
+</head>
+<body>
+  <h1>Tehtävälista</h1>
+  <input type="text" id="haku" placeholder="Hae tehtävää..." />
+  <form id="taskForm">
+    <input type="text" id="nimi" placeholder="Tehtävän nimi" required />
+    <input type="text" id="tiedot" placeholder="Tiedot" required />
+    <button type="submit">Lisää tehtävä</button>
+  </form>
+
+  <div class="taskit" id="taskList"></div>
+</body>
+</html>
