@@ -16,3 +16,6 @@ Frontend tehty Reachillä. Vastaa täydellisesti alkuperäistä suunnitelmaa eli
 
 ![image](https://github.com/user-attachments/assets/c4243373-9e87-4ebc-b7c4-3dee33615f1b)
 
+# Ympäristö Azure Static Web App
+
+![image](https://github.com/user-attachments/assets/b19e48fc-76bf-472b-a176-09f08e3f486e)
