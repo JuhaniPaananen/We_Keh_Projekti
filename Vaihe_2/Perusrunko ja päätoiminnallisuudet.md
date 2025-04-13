@@ -1,6 +1,8 @@
 # Tiivistelmä
 Projekti on Taskien hallinta applikaatiosta, joka on tehty Reach, Node.js ja Sqlite3. Sain myös näkymään sen Azure ympäristössä Static Web Appina. Kaikissa osissa on oma raportinsa, jossa kerron toteutuksesta.
 
+Jatko kehityksiä voisi olla, että se toimisi Azuressa. Azureen sain sivun näkyviin, mutta se ei tallenna mitään. En tiedä, mutta ei riittänyt aika, joten tähän se jäi.
+
 # Mistä löydän projektin?
 Se on master branchissa samassa repossa.
 
