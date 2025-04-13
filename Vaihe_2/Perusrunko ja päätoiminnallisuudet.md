@@ -18,4 +18,7 @@ Frontend tehty Reachillä. Vastaa täydellisesti alkuperäistä suunnitelmaa eli
 
 # Ympäristö Azure Static Web App
 
+#### Raportti:
+Noin 55 workflow runin jälkeen ja aivan viimeisillä sekunneilla sain sen toimimaan azure ympäristöstä.
+
 ![image](https://github.com/user-attachments/assets/b19e48fc-76bf-472b-a176-09f08e3f486e)
